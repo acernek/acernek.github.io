@@ -1,7 +1,9 @@
 Polling Firm,Fieldwork Start,Fieldwork End,Period Estimated,Round,Sample Size,Participation Rate,Participation,Precision,P. Pellegrini,I. Korčok,J. Kubiš,Š. Harabin,Source
 ELECTION,4/6/2024,4/6/2024,TRUE,2,,,,0.01,,,,,
 ELECTION,3/23/2024,3/23/2024,TRUE,1,,,,0.01,,,,,
+IPSOS,12/13/2023,12/18/2023,FALSE,2,1048,,,1,0.64,0.36,,,https://dennikn.sk/3741337/pellegriniho-potencial-v-prezidentskych-volbach-sa-blizi-k-50-percentam-teraz-by-ho-korcok-v-druhom-kole-neporazil/?ref=mwat
 FOCUS,11/15/2023,11/22/2023,FALSE,2,1015,,,1,0.6,0.4,,,https://tvnoviny.sk/domace/clanok/869680-exkluzivny-prieskum-pellegrini-verzus-korcok-crta-sa-ostry-suboj-o-prezidentske-kreslo
+MEDIAN,10/16/2023,1/15/2023,FALSE,1,1099,0.47,527,0.1,0.246,0.212,0.024,,https://www.median.sk/pdf/OSTATNE/4523500_PAT11_PREZVOLMOD_v06.pdf
 AKO,11/7/2023,11/14/2023,FALSE,1,1000,0.876,,0.1,0.398,0.303,0.058,0.088,https://plus.noviny.sk/860549-exkluzivny-prieskum-ako-pre-na-hrane-kto-by-vyhral-prezidentske-volby
 IPSOS,11/2/2023,11/7/2023,FALSE,2,1021,,,1,0.61,0.39,,,https://twitter.com/SlovakiaElects/status/1723024224128745662
 FOCUS,9/6/2023,9/13/2023,FALSE,2,1001,,,1,0.58,0.42,,,https://tvnoviny.sk/na-telo/clanok/857696-exkluzivny-prieskum-prezidentske-kreslo-by-pellegrini-ziskal-v-suboji-s-korcokom-aj-ficom
