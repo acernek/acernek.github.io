@@ -1,7 +1,9 @@
 Polling Firm,Fieldwork Start,Fieldwork End,Period Estimated,Round,Sample Size,Participation Rate,Participation,Precision,P. Pellegrini,I. Korčok,J. Kubiš,Š. Harabin,Source
-ELECTION,2024-04-06,2024-04-06,TRUE,2,,,,0.01,,,,,
-ELECTION,2024-03-23,2024-03-23,TRUE,1,,,,0.01,,,,,
-AKO,2024-01-11,2021-01-16,FALSE,1,1000,0.731,,0.1,0.426,0.396,0.033,0.084,https://ako.sk/wp-content/uploads/2024/01/ag.AKO_VOLBY_PREZIDENTA_JANUAR_2024.pdf
+ELECTION,2024-04-06,2024-04-06,FALSE,2,,,,0.01,,,,,
+ELECTION,2024-03-23,2024-03-23,FALSE,1,,,,0.01,,,,,
+IPSOS,2024-01-22,2024-01-25,FALSE,2,,,,0.1,0.547,0.453,,,https://dennikn.sk/3795701/ipsos-suboj-medzi-pellegrinim-a-korcokom-je-tesny-druhe-kolo-mozu-rozhodnut-harabinovi-volici-kde-beru-kandidati-podporu/?ref=mwai
+IPSOS,2024-01-22,2024-01-25,FALSE,1,,,,0.1,0.407,0.382,0.021,0.08,https://dennikn.sk/3795701/ipsos-suboj-medzi-pellegrinim-a-korcokom-je-tesny-druhe-kolo-mozu-rozhodnut-harabinovi-volici-kde-beru-kandidati-podporu/?ref=mwai
+AKO,2024-01-11,2024-01-16,FALSE,1,1000,0.731,,0.1,0.426,0.396,0.033,0.084,https://ako.sk/wp-content/uploads/2024/01/ag.AKO_VOLBY_PREZIDENTA_JANUAR_2024.pdf
 NMS,2024-01-10,2024-01-14,FALSE,2,1030,,,0.1,0.515,0.485,,,https://nms.global/sk/volebny-prieskum-k-prezidentskym-volbam-januar-2024/
 NMS,2024-01-10,2024-01-14,FALSE,1,1030,,,0.1,0.357,0.363,0.047,0.121,https://nms.global/sk/volebny-prieskum-k-prezidentskym-volbam-januar-2024/
 SANEP,2023-12-25,2023-12-29,FALSE,2,1146,0.423,,0.1,0.581,0.419,,,https://spravy.pravda.sk/domace/clanok/694568-prieskum-sanep-pellegrini-by-porazil-korcoka-v-prvom-aj-druhom-kole/
