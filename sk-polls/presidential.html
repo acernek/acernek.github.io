@@ -61,8 +61,33 @@
         </div>
         <hr>
         <h3 class="mt-4">2024 presidential trends</h3>
-        <div class="text-center overflow-auto">
-          <img src="pres-2024.svg" style="max-height: 600px;"/>
+        <ul class="nav nav-underline" id="myTab" role="tablist">
+          <li class="nav-item" role="presentation">
+            <button class="nav-link active" id="focus-2024-tab" data-bs-toggle="tab" data-bs-target="#focus-2024-tab-pane" type="button" role="tab" aria-controls="focus-2024-tab-pane" aria-selected="true">FOCUS</button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link" id="ako-2024-tab" data-bs-toggle="tab" data-bs-target="#ako-2024-tab-pane" type="button" role="tab" aria-controls="ako-2024-tab-pane" aria-selected="false">AKO</button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link" id="ipsos-2024-tab" data-bs-toggle="tab" data-bs-target="#ipsos-2024-tab-pane" type="button" role="tab" aria-controls="ipsos-2024-tab-pane" aria-selected="false">IPSOS</button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link" id="nms-2024-tab" data-bs-toggle="tab" data-bs-target="#nms-2024-tab-pane" type="button" role="tab" aria-controls="nms-2024-tab-pane" aria-selected="false">NMS</button>
+          </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
+          <div class="tab-pane fade show active text-center overflow-auto" id="focus-2024-tab-pane" role="tabpanel" aria-labelledby="focus-2024-tab" tabindex="0">
+            <img src="focus-pres-2024.svg" style="max-height: 600px;"/>
+          </div>
+          <div class="tab-pane fade text-center overflow-auto" id="ako-2024-tab-pane" role="tabpanel" aria-labelledby="ako-2024-tab" tabindex="0">
+            <img src="ako-pres-2024.svg" style="max-height: 600px;"/>
+          </div>
+          <div class="tab-pane fade text-center overflow-auto" id="ipsos-2024-tab-pane" role="tabpanel" aria-labelledby="ipsos-2024-tab" tabindex="0">
+            <img src="ipsos-pres-2024.svg" style="max-height: 600px;"/>
+          </div>
+          <div class="tab-pane fade text-center overflow-auto" id="nms-2024-tab-pane" role="tabpanel" aria-labelledby="nms-2024-tab" tabindex="0">
+            <img src="nms-pres-2024.svg" style="max-height: 600px;"/>
+          </div>
         </div>
         <hr>
         <h3 class="mt-4">2019 presidential trends</h3>
