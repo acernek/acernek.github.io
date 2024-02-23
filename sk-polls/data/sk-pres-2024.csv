@@ -1,6 +1,8 @@
 Polling Firm,Fieldwork Start,Fieldwork End,Period Estimated,Round,Sample Size,Participation Rate,Participation,Precision,P. Pellegrini,I. Korčok,I. Matovič,J. Kubiš,Š. Harabin,K. Forró,A. Danko,P. Dubovský,Source
 ELECTION,2024-04-06,2024-04-06,FALSE,2,,,,0.01,,,,,,,,,
 ELECTION,2024-03-23,2024-03-23,FALSE,1,,,,0.01,,,,,,,,,
+IPSOS,2024-02-16,2024-02-21,FALSE,2,,,,0.1,0.538,0.462,,,,,,,https://www.teraz.sk/slovensko/prieskum-prve-kolo-prezidentskych-vol/776786-clanok.html?utm_source=teraz&utm_medium=organic&utm_campaign=click&utm_content=.%253Bw%253BwIndex
+IPSOS,2024-02-16,2024-02-21,FALSE,1,,,,0.1,0.402,0.363,0.043,0.034,0.085,0.03,0.011,0.013,https://www.teraz.sk/slovensko/prieskum-prve-kolo-prezidentskych-vol/776786-clanok.html?utm_source=teraz&utm_medium=organic&utm_campaign=click&utm_content=.%253Bw%253BwIndex
 NMS,2024-02-14,2024-02-18,FALSE,2,1022,,,0.1,0.523,0.477,,,,,,,https://nms.global/sk/volebny-prieskum-k-prezidentskym-volbam-februar-2024/
 NMS,2024-02-14,2024-02-18,FALSE,1,1022,,,0.1,0.358,0.346,0.066,0.048,0.1,0.022,0.013,0.011,https://nms.global/sk/volebny-prieskum-k-prezidentskym-volbam-februar-2024/
 AKO,2024-02-05,2024-02-12,FALSE,2,1000,0.851,,0.1,0.537,0.463,,,,,,,https://plus.noviny.sk/891051-exkluzivny-prieskum-ako-pre-na-hrane-rebricek-prezidentskych-kandidatov-zamiesal-matovic-kartami
