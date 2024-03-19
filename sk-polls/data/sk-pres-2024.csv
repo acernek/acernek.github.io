@@ -1,8 +1,10 @@
 Polling Firm,Fieldwork Start,Fieldwork End,Period Estimated,Round,Sample Size,Participation Rate,Participation,Precision,P. Pellegrini,I. Korčok,I. Matovič,J. Kubiš,Š. Harabin,K. Forró,A. Danko,P. Dubovský,M. Kotleba,Source
 ELECTION,2024-04-06,2024-04-06,FALSE,2,,,,0.01,,,,,,,,,,
 ELECTION,2024-03-23,2024-03-23,FALSE,1,,,,0.01,,,,,,,,,,
-AKO,2024-03-11,2024-03-18,FALSE,2,1000,0.881,,0.1,0.529,0.471,,,,,,,,https://plus.noviny.sk/903616-exkluzivny-prieskum-ako-pre-joj-24-rebricek-prezidentskych-kandidatov
-AKO,2024-03-11,2024-03-18,FALSE,1,1000,0.862,,0.1,0.404,0.386,0.029,0.019,0.103,0.027,0.009,0.007,0.008,https://plus.noviny.sk/903616-exkluzivny-prieskum-ako-pre-joj-24-rebricek-prezidentskych-kandidatov
+AKO,2024-03-11,2024-03-18,FALSE,2,1000,0.881,,0.1,0.529,0.471,,,,,,,,https://ako.sk/wp-content/uploads/2024/03/ag.AKO_VOLBY_PREZIDENTA_MAREC_2024.pdf
+AKO,2024-03-11,2024-03-18,FALSE,1,1000,0.862,,0.1,0.404,0.386,0.029,0.019,0.103,0.027,0.009,0.007,0.008,https://ako.sk/wp-content/uploads/2024/03/ag.AKO_VOLBY_PREZIDENTA_MAREC_2024.pdf
+IPSOS,2024-03-12,2024-03-16,FALSE,2,1038,,,0.1,0.534,0.466,,,,,,,,https://spravy.rtvs.sk/2024/03/obe-kola-prezidentskych-volieb-by-vyhral-peter-pellegrini-prezradil-prieskum-ipsos/
+IPSOS,2024-03-12,2024-03-16,FALSE,1,1038,,,0.1,0.374,0.366,0.043,0.024,0.113,0.028,0.009,,0.018,https://spravy.rtvs.sk/2024/03/obe-kola-prezidentskych-volieb-by-vyhral-peter-pellegrini-prezradil-prieskum-ipsos/
 MEDIAN,2024-03-07,2024-03-13,FALSE,2,1200,,,0.1,0.529,0.471,,,,,,,,https://spravy.rtvs.sk/2024/03/median-sk-pre-rtvs-v-prvom-kole-nadalej-vedie-i-korcok-prezidentom-by-sa-vsak-stal-p-pellegrini/
 MEDIAN,2024-03-07,2024-03-13,FALSE,1,1200,,,0.1,0.342,0.357,0.032,0.032,0.114,0.027,0.023,0.018,0.023,https://spravy.rtvs.sk/2024/03/median-sk-pre-rtvs-v-prvom-kole-nadalej-vedie-i-korcok-prezidentom-by-sa-vsak-stal-p-pellegrini/
 FOCUS,2024-03-07,2024-03-11,FALSE,2,1010,,,0.1,0.56,0.44,,,,,,,,https://tvnoviny.sk/domace/clanok/885228-exkluzivny-prieskum-prezidentske-volby-by-v-oboch-kolach-vyhral-peter-pellegrini
