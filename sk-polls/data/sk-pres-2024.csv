@@ -1,6 +1,8 @@
 Polling Firm,Fieldwork Start,Fieldwork End,Period Estimated,Round,Sample Size,Participation Rate,Participation,Precision,P. Pellegrini,I. Korčok,I. Matovič,J. Kubiš,Š. Harabin,K. Forró,A. Danko,P. Dubovský,M. Kotleba,Source
 ELECTION,2024-04-06,2024-04-06,FALSE,2,,,,0.01,,,,,,,,,,
 ELECTION,2024-03-23,2024-03-23,FALSE,1,,,,0.01,,,,,,,,,,
+NMS,2024-03-13,2024-03-18,FALSE,2,1030,,,0.1,0.509,0.491,,,,,,,,https://volby.sme.sk/prezidentske-volby/i/prieskumy-preferencie-prezidentske-volby
+NMS,2024-03-13,2024-03-18,FALSE,1,1030,,,0.1,0.342,0.36,0.04,0.028,0.16,0.027,0.005,0.009,0.022,https://volby.sme.sk/prezidentske-volby/i/prieskumy-preferencie-prezidentske-volby
 AKO,2024-03-11,2024-03-18,FALSE,2,1000,0.881,,0.1,0.529,0.471,,,,,,,,https://ako.sk/wp-content/uploads/2024/03/ag.AKO_VOLBY_PREZIDENTA_MAREC_2024.pdf
 AKO,2024-03-11,2024-03-18,FALSE,1,1000,0.862,,0.1,0.404,0.386,0.029,0.019,0.103,0.027,0.009,0.007,0.008,https://ako.sk/wp-content/uploads/2024/03/ag.AKO_VOLBY_PREZIDENTA_MAREC_2024.pdf
 IPSOS,2024-03-12,2024-03-16,FALSE,2,1038,,,0.1,0.534,0.466,,,,,,,,https://spravy.rtvs.sk/2024/03/obe-kola-prezidentskych-volieb-by-vyhral-peter-pellegrini-prezradil-prieskum-ipsos/
