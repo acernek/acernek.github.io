@@ -1,4 +1,6 @@
 Polling Firm,Fieldwork Start,Fieldwork End,Period Estimated,Variant,Sample Size,Participation,HLAS - SD,SMER - SSD,SaS,PS,PS-SPOLU,OĽaNO,KDH,SR,REPUBLIKA,SNS,ALIANCIA,SMK-MKP,MOST - HÍD,ZĽ,ĽSNS,DVaU,SPOLU/MK,Demokrati,MF,Jablko,Modrí,#SIEŤ/SKS,Source
+NMS,2026-06-03,2026-06-08,FALSE,Potential,1002,,0.106,0.1940,0.1460,0.2600,,0.1150,0.0880,0.0500,0.1700,0.0490,0.0560,,,0.0530,,,,0.1080,,,,,https://nms.global/sk/volebny-model-jun-2026/
+NMS,2026-06-03,2026-06-08,FALSE,Core,1002,,0.031,0.1070,0.0230,0.0910,,0.0580,0.0170,0.0110,0.0600,0.0130,0.0230,,,0.0090,,,,0.0220,,,,,https://nms.global/sk/volebny-model-jun-2026/
 NMS,2026-05-06,2026-05-10,FALSE,Potential,1002,,0.104,0.2020,0.1430,0.2470,,0.1160,0.0880,0.0650,0.1700,0.0480,0.0510,,,0.0480,,,,0.1180,,,,,https://nms.global/sk/volebny-model-maj-2026/
 NMS,2026-05-06,2026-05-10,FALSE,Core,1002,,0.030,0.1060,0.0250,0.1000,,0.0480,0.0150,0.0160,0.0600,0.0100,0.0220,,,0.0080,,,,0.0210,,,,,https://nms.global/sk/volebny-model-maj-2026/
 NMS,2026-04-08,2026-04-13,FALSE,Potential,1001,,0.117,0.2110,0.1430,0.2620,,0.1070,0.0910,0.0660,0.1930,0.0520,0.0510,,,0.0480,,,,0.1200,,,,,https://nms.global/sk/volebny-model-april-2026/
